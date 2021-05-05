@@ -1,0 +1,6 @@
+﻿  GRA.cpp
+C:\Users\mat12\source\repos\KIK2\KIK2\GRA.h(372,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generowanie kodu...
+  GRA.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  KIK2.vcxproj -> C:\Users\mat12\source\repos\KIK2\Debug\KIK2.exe
